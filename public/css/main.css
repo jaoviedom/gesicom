@@ -1,0 +1,226 @@
+body {
+    background-color: #F5F6F6;
+}
+
+.bg-orange {
+    background-color: #FF671D;
+}
+
+.bg-gris-4 {
+    background-color: #EDEDED;
+}
+
+.text-orange {
+    color: #FF671D;
+}
+
+.text-gris-footer {
+    color: #525368;
+}
+
+.text-gris-1 {
+    color: #565656;
+}
+
+.p-no-space {
+    margin-top: 0;
+}
+
+.navbar-dark {
+    color: white !important;
+}
+
+.navbar-brand, .nav-item {
+    margin-right: 94px;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.btn-convocatoria {
+    color: #FF671D;
+    width: 171px;
+    height: 40px;
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+    border-radius: 20px;
+    opacity: 1;
+}
+
+.banner-principal {
+    background: var(--gris-4) 0% 0% no-repeat padding-box;
+    background: #EDEDED 0% 0% no-repeat padding-box;
+    border-radius: 24px;
+    opacity: 1;
+}
+
+.banner-title {
+    color: #FF671D;
+    font: normal normal bold 36px/48px Roboto;
+}
+
+.banner-body {
+    color: #565656;
+    font: italic normal normal 24px/32px Roboto;
+    max-width: 568px;
+}
+
+.card {
+    border-radius: 30px !important;
+}
+
+.card > .card-body > .text-center > i, .card > .card-body > i {
+    color: #FF671D;
+}
+
+.card > .card-body > .card-title, .card > .card-body > p {
+    color: #565656 !important;
+}
+
+.card:hover, 
+.card:hover .card-body > .text-center > i, 
+.card:hover .card-body > i, 
+.card:hover .card-body > .card-title, 
+.card:hover .card-body > p {
+    color: #FFFFFF !important;
+    background-color: #FF671D;
+}
+
+.selected-item {
+    color: #FFFFFF !important;
+    background-color: #FF671D;
+}
+
+.titulo-gris-1 {
+    font: normal normal bold 36px/48px Roboto;
+    color: #565656 !important;
+}
+
+.titulo-2 {
+    font: normal normal bold 20px/30px Roboto;
+}
+
+.titulo-white {
+    font: normal normal bold 20px/30px Roboto;
+    color: #FFFFFF !important;
+}
+
+.text-gris {
+    color: #565656 !important;
+}
+
+.text-gris-oscuro {
+    color: #474747;
+}
+
+#separador {
+    background: #FF671D 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    min-height: 4px;
+}
+
+.img-invest {
+    max-width: 114px;
+    border-radius: 50%;
+    border: 2px #EDEDED solid;
+    padding: 2px;
+}
+
+footer {
+    background-color: #999999;
+    color: #FFFFFF;
+}
+
+#div-footer {
+    width: 22px;
+    height: 3px;
+    background: #E95C13 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+}
+
+#img-categoria {
+    max-width: 90px;
+}
+
+#panel-footer {
+    position: relative;
+    height: 120px;
+    top: -60px;
+}
+
+.be-orange {
+    border-right: 1px solid #FF671D;
+}
+
+#col-der-footer {
+    min-height: 120px !important;
+}
+
+.linea-subtitulo {
+    border-bottom: 2px solid #FF671D;
+}
+
+.linea-subtitulo-equipo {
+    color: #565656;
+    border-bottom: 2px solid #999999;
+}
+
+.subtitulo-equipo {
+    color: #999999;
+}
+
+.linea-subtitulo-equipo:hover, .subtitulo-equipo:hover {
+    color: #565656;
+    border-bottom: 2px solid #999999;
+}
+
+p {
+    margin-top: 16px;
+}
+
+.btn-acerca {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 30px #0000000D;
+    opacity: 1;
+    color: #FF671D;
+}
+
+.btn-acerca:hover, .btn-acerca:hover div, .btn-acerca:hover div i  {
+    background: #FF671D 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 30px #0000000D;
+    opacity: 1;
+    color: #FFFFFF;
+}
+
+.radial-mision {
+    border-radius: 50%;
+    background: transparent radial-gradient(closest-side at 50% 50%, #005FAB 0%, #161B4B 100%) 0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+    min-width: 6rem;
+    min-height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orange-circle {
+    border-radius: 50%;
+    color: #FF671D;
+    text-align: center;
+    background: #F2E2DC 0% 0% no-repeat padding-box;
+    width: 4rem;
+    height: 4rem;
+    margin-bottom: 1rem;
+}
+
+#card-mision {
+    min-height: 25rem;
+} 
+
+#card-mision:hover {
+    background: #FFFFFF !important;
+}
+#card-mision:hover .card-body p {
+    background: #FFFFFF !important;
+    color: #565656 !important;
+}
