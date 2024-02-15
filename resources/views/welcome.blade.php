@@ -160,15 +160,17 @@
     </section>
     <section class="row my-3">
         <div class="col-md-4">
+          <a href="https://revistas.sena.edu.co/index.php/RVI" class="text-decoration-none" target="_blank">
             <div class="card py-4 shadow">
                 <div class="card-body">
                     <div class="text-center">
                         <i class="fa-solid fa-newspaper fa-2xl"></i>
                     </div>
                     <div class="card-title text-center mt-3 titulo-2">Revista</div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet dolorum ex, magni ipsum tempore vel expedita necessitatibus nemo et debitis inventore aspernatur delectus voluptates saepe a impedit nisi esse quaerat.</p>
+                    <p>La Revista Vía Innova del grupo de investigación Gestión Empresarial, Servicios e Innovación Comercial GESICOM Vía Innova, perteneciente al Centro de Comercio y Servicios del SENA Regional Tolima, tiene la finalidad de divulgación de avances, desarrollo y logros de los proyectos de investigación, de los diferentes campos científicos, mediante la publicación de artículos originales en español e inglés.</p>
                 </div>
             </div>
+          </a>
         </div>
         <div class="col-md-4">
           <a href="{{ route('verProyectos') }}" class="text-decoration-none">
@@ -179,12 +181,13 @@
                       {{-- <i class="fa-solid fa-book-open-reader fa-2xl"></i> --}}
                     </div>
                     <div class="card-title text-center mt-3 titulo-2">Proyectos</div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet dolorum ex, magni ipsum tempore vel expedita necessitatibus nemo et debitis inventore aspernatur delectus voluptates saepe a impedit nisi esse quaerat.</p>
+                    <p>Adentrate en nuestros proyectos, tanto los ejecutados como los que están en curso. Desde el desarrollo de tecnologías punteras hasta la creación de soluciones que impactan la sociedad, exploramos el futuro con dedicación y pasión, siempre en búsqueda de innovación y progreso.</p>
                 </div>
             </div>
           </a>
         </div>
         <div class="col-md-4">
+          <a href="{{ route('verProductos') }}" class="text-decoration-none">
             <div class="card py-4 shadow">
                 <div class="card-body">
                     <div class="text-center">
@@ -192,10 +195,11 @@
                       {{-- <i class="fa-solid fa-magnifying-glass-plus fa-2xl"></i> --}}
                     </div>
                     <div class="card-title text-center mt-3 titulo-2">Productos</div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet dolorum ex, magni ipsum tempore vel expedita necessitatibus nemo et debitis inventore aspernatur delectus voluptates saepe a impedit nisi esse quaerat.</p>
+                    <p>Explora nuestra amplia gama de productos derivados de la investigación: desde libros que compilan resultados investigativos, hasta artículos científicos, ponencias y software especializado. Cada producto representa el esfuerzo y la dedicación del Grupo de Investigación, encaminado hacia la vanguardia del conocimiento y la tecnología.</p>
                 </div>
+              </div>
             </div>
-        </div>
+          </a>
     </section>
     <section class="row my-5">
         <div class="text-center">

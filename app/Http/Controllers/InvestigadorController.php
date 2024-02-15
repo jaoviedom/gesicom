@@ -84,12 +84,15 @@ class InvestigadorController extends Controller
     {
         $investigador = Investigador::findOrFail( $id );
         $datos = request()->except( ['_token', '_method'] );
+        print($datos['nombre']);
+        print($request->hasFile('foto'));
         if( $request->hasFile('foto') ) {
-            Storage::delete( 'public/' . $investigador->foto );
-            $datos['foto'] = $request->file('foto')->store('uploads', 'public');
+            print("IN");
+            // Storage::delete( 'public/' . $investigador->foto );
+            // $datos['foto'] = $request->file('foto')->store('uploads', 'public');
         }
         $investigador->update($datos);
-        return redirect('investigadores')->with('mensaje', 'Datos guardados con éxito');
+        // return redirect('investigadores')->with('mensaje', 'Datos guardados con éxito');
     }
 
     /**

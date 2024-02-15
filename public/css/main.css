@@ -3,7 +3,7 @@ body {
 }
 
 .bg-orange {
-    background-color: #FF671D;
+    background-color: #39A900;
 }
 
 .bg-gris-4 {
@@ -11,7 +11,7 @@ body {
 }
 
 .text-orange {
-    color: #FF671D;
+    color: #39A900;
 }
 
 .text-gris-footer {
@@ -39,7 +39,7 @@ body {
 }
 
 .btn-convocatoria {
-    color: #FF671D;
+    color: #39A900;
     width: 171px;
     height: 40px;
     background: #F6F6F6 0% 0% no-repeat padding-box;
@@ -55,7 +55,7 @@ body {
 }
 
 .banner-title {
-    color: #FF671D;
+    color: #39A900;
     font: normal normal bold 36px/48px Roboto;
 }
 
@@ -70,7 +70,7 @@ body {
 }
 
 .card > .card-body > .text-center > i, .card > .card-body > i {
-    color: #FF671D;
+    color: #39A900;
 }
 
 .card > .card-body > .card-title, .card > .card-body > p {
@@ -83,12 +83,12 @@ body {
 .card:hover .card-body > .card-title, 
 .card:hover .card-body > p {
     color: #FFFFFF !important;
-    background-color: #FF671D;
+    background-color: #39A900;
 }
 
 .selected-item {
     color: #FFFFFF !important;
-    background-color: #FF671D;
+    background-color: #39A900;
 }
 
 .titulo-gris-1 {
@@ -114,7 +114,7 @@ body {
 }
 
 #separador {
-    background: #FF671D 0% 0% no-repeat padding-box;
+    background: #39A900 0% 0% no-repeat padding-box;
     border-radius: 10px;
     min-height: 4px;
 }
@@ -134,7 +134,7 @@ footer {
 #div-footer {
     width: 22px;
     height: 3px;
-    background: #E95C13 0% 0% no-repeat padding-box;
+    background: #39A900 0% 0% no-repeat padding-box;
     border-radius: 8px;
 }
 
@@ -149,7 +149,7 @@ footer {
 }
 
 .be-orange {
-    border-right: 1px solid #FF671D;
+    border-right: 1px solid #39A900;
 }
 
 #col-der-footer {
@@ -157,7 +157,7 @@ footer {
 }
 
 .linea-subtitulo {
-    border-bottom: 2px solid #FF671D;
+    border-bottom: 2px solid #39A900;
 }
 
 .linea-subtitulo-equipo {
@@ -182,11 +182,11 @@ p {
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 0px 10px 30px #0000000D;
     opacity: 1;
-    color: #FF671D;
+    color: #39A900;
 }
 
 .btn-acerca:hover, .btn-acerca:hover div, .btn-acerca:hover div i  {
-    background: #FF671D 0% 0% no-repeat padding-box;
+    background: #39A900 0% 0% no-repeat padding-box;
     box-shadow: 0px 10px 30px #0000000D;
     opacity: 1;
     color: #FFFFFF;
@@ -205,7 +205,7 @@ p {
 
 .orange-circle {
     border-radius: 50%;
-    color: #FF671D;
+    color: #39A900;
     text-align: center;
     background: #F2E2DC 0% 0% no-repeat padding-box;
     width: 4rem;

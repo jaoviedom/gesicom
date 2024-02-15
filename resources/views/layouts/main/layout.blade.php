@@ -22,32 +22,32 @@
                             <g id="Grupo_16" data-name="Grupo 16">
                                 <path id="Trazado_1" data-name="Trazado 1"
                                     d="M209.812,1104.974h34.762l-20.4,35.505-4.335-4.073,13-22.543.325-.631.166-.6-.085-.719-.216-.383-.3-.3-.708-.357-.892-.166H209.812Z"
-                                    transform="translate(-209.812 -1072.216)" fill="#ff671d" fill-rule="evenodd" />
+                                    transform="translate(-209.812 -1072.216)" fill="#39A900" fill-rule="evenodd" />
                                 <path id="Trazado_2" data-name="Trazado 2"
                                     d="M252.86,1066.727a8.189,8.189,0,1,1-8.136,8.19,8.181,8.181,0,0,1,8.136-8.19"
-                                    transform="translate(-214.822 -1066.727)" fill="#ff671d" fill-rule="evenodd" />
+                                    transform="translate(-214.822 -1066.727)" fill="#39A900" fill-rule="evenodd" />
                                 <path id="Trazado_3" data-name="Trazado 3"
                                     d="M250.795,1111.945l-19.155,32.566,5.094,2.519,12.541-21.182.381-.489.544-.272.7-.136.784.136.486.323.353.437,12.659,21.182,5.2-2.709Z"
-                                    transform="translate(-212.944 -1073.216)" fill="#ff671d" fill-rule="evenodd" />
+                                    transform="translate(-212.944 -1073.216)" fill="#39A900" fill-rule="evenodd" />
                                 <path id="Trazado_4" data-name="Trazado 4"
                                     d="M257.423,1104.924h35.163v5.624H271.1l-.681.22-.617.3-.519.55-.217.662v.6l.163.633,13.277,22.839-4.172,3.956Z"
-                                    transform="translate(-216.644 -1072.208)" fill="#ff671d" fill-rule="evenodd" />
+                                    transform="translate(-216.644 -1072.208)" fill="#39A900" fill-rule="evenodd" />
                                 <path id="Trazado_5" data-name="Trazado 5"
                                     d="M218.819,1096.333v.032a1.542,1.542,0,0,0-.044.3,1.012,1.012,0,0,0,.724.943,6.169,6.169,0,0,0,2.239.306,5.152,5.152,0,0,0,1.8-.253c.432-.166.654-.4.654-.7,0-.443-.864-.806-2.585-1.091-.2-.031-.354-.053-.447-.069-.116-.021-.275-.049-.485-.083q-4.11-.668-5.275-1.455a2.668,2.668,0,0,1-.866-.906,2.4,2.4,0,0,1-.284-1.176,2.657,2.657,0,0,1,1.886-2.442,14.215,14.215,0,0,1,5.52-.836,13.55,13.55,0,0,1,5.316.785,2.558,2.558,0,0,1,1.729,2.419v.124h-4.53v-.05q0-.556-.69-.848a5.309,5.309,0,0,0-2.015-.29,4.85,4.85,0,0,0-1.591.2c-.372.141-.558.337-.558.591,0,.446.989.834,2.967,1.154l.893.136c1.411.236,2.411.441,3.01.607a8.2,8.2,0,0,1,1.541.6,3.1,3.1,0,0,1,1.119,1,2.4,2.4,0,0,1,.395,1.328c0,1.1-.687,1.949-2.053,2.541a15.424,15.424,0,0,1-5.915.894,13.074,13.074,0,0,1-5.518-.86,2.87,2.87,0,0,1-1.71-2.747v-.162Zm12.415,3.585v-10.853h12.923v2.343h-8.069v1.729h7.459v2.31h-7.459v2.1h8.369v2.37Zm15.248,0v-10.853h6.144l6.569,7.283v-7.283h4.658v10.853h-6.364l-6.357-7.3v7.3Zm29.905-4.329-2.321-3.943-2.456,3.943ZM269,1099.919h-4.861l7.509-10.853h5.379l7.166,10.853h-5.407l-1.087-1.961h-7.528Z"
-                                    transform="translate(-210.42 -1069.91)" fill="#ff671d" fill-rule="evenodd" />
+                                    transform="translate(-210.42 -1069.91)" fill="#39A900" fill-rule="evenodd" />
                             </g>
                         </g>
                         <text id="Centro_de_Comercio_y_Servicios" data-name="Centro de Comercio
-            y Servicios" transform="translate(116.398 22.715)" fill="#ff671d" font-size="18"
+            y Servicios" transform="translate(116.398 22.715)" fill="#39A900" font-size="18"
                             font-family="ArialMT, Arial">
                             <tspan x="0" y="0">Centro de Comercio</tspan>
                             <tspan x="0" y="16">y Servicios</tspan>
                         </text>
                         <line id="Línea_22" data-name="Línea 22" y2="70.053" transform="translate(96.05 2.108)"
-                            fill="#fff" stroke="#ff671d" stroke-miterlimit="10" stroke-width="1" />
+                            fill="#fff" stroke="#39A900" stroke-miterlimit="10" stroke-width="1" />
                     </g>
                     <text id="Regional_Tolima" data-name="Regional Tolima" transform="translate(509.056 127.665)"
-                        fill="#ff671d" font-size="12" font-family="ArialMT, Arial">
+                        fill="#39A900" font-size="12" font-family="ArialMT, Arial">
                         <tspan x="0" y="0">Regional Tolima</tspan>
                     </text>
                 </g>
