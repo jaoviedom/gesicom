@@ -158,10 +158,10 @@
             <path id="Trazado_18786" data-name="Trazado 18786" d="M114.928,215.036a.235.235,0,0,0-.224.194c-1.191,6.279-.651,13.593-.691,20.526a.234.234,0,0,0,.468,0c.042-6.96-.488-14.254.683-20.441A.233.233,0,0,0,114.928,215.036Z" transform="translate(-48.507 -46.067)" fill="#efcd76"/>
         </svg>
     </section>
-    <section class="row my-3">
-        <div class="col-md-4">
+    <section class="row row-cols-1 row-cols-md-3 g-4 my-3">
+        <div class="col">
           <a href="https://revistas.sena.edu.co/index.php/RVI" class="text-decoration-none" target="_blank">
-            <div class="card py-4 shadow">
+            <div class="card h-100 py-4 shadow">
                 <div class="card-body">
                     <div class="text-center">
                         <i class="fa-solid fa-newspaper fa-2xl"></i>
@@ -172,9 +172,9 @@
             </div>
           </a>
         </div>
-        <div class="col-md-4">
+        <div class="col">
           <a href="{{ route('verProyectos') }}" class="text-decoration-none">
-            <div class="card py-4 shadow">
+            <div class="card h-100 py-4 shadow">
                 <div class="card-body">
                     <div class="text-center">
                       <i class="fa-solid fa-diagram-project fa-2xl"></i>
@@ -186,9 +186,9 @@
             </div>
           </a>
         </div>
-        <div class="col-md-4">
+        <div class="col">
           <a href="{{ route('verProductos') }}" class="text-decoration-none">
-            <div class="card py-4 shadow">
+            <div class="card h-100 py-4 shadow">
                 <div class="card-body">
                     <div class="text-center">
                       <i class="fa-solid fa-book-open-reader fa-2xl"></i>
@@ -682,7 +682,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card py-4 shadow">
+                    <div class="card h-100 py-4 shadow">
                         <div class="card-body">
                             <div class="text-center">
                                 <svg id="Grupo_8126" data-name="Grupo 8126" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105.661" height="71.976" viewBox="0 0 105.661 71.976">
@@ -894,7 +894,7 @@
                     <div class="col-md-3">
                         <div class="card py-4 shadow">
                             <div class="card-body">
-                                <img src="{{ asset('storage') . '/' . $item->foto }}" alt="Foto" class="img-invest">
+                                <img src="{{ asset($item->foto) }}" alt="Foto" class="img-invest">
                                 <h6 class="text-orange">
                                     {{ $item->nombre }}
                                 </h6>

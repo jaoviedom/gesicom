@@ -21,9 +21,9 @@
 <div class="mb-3">
     <label for="foto" class="form-label">Foto</label>
     @if ( isset( $investigador->foto ) )
-        <img class="img-thumbnail img-fluid" src="{{ asset('storage') . '/' . $investigador->foto }}" width="50" alt="">
+        <img class="img-thumbnail img-fluid" src="{{ asset("$investigador->foto") }}" width="100" alt="">
     @endif
-    <input class="form-control" type="file" id="foto" name="foto">
+    <input class="form-control @if($modo == "Detalle de") d-none @endif" type="file" id="foto" name="foto">
 </div>
 <button class="btn btn-secondary @if($modo == "Detalle de") d-none @endif">Guardar</button>
 
